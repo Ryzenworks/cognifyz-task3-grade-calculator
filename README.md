@@ -29,7 +29,7 @@ A Java console application that calculates and displays the grades for each subj
 This task is part of **Level 1** under the **Java Development Internship** at Cognifyz Technologies.
 
 ## 🔗 LinkedIn Post
-[Add LinkedIn Post Link Here]
+https://www.linkedin.com/posts/marooflearns_cognifyz-cognifyztech-cognifyztechnologies-activity-7341543848612892672-nO0B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhj5nYBNjmWNuA6WCpB-iYKPXc9BjscvM4
 
 ## 🏷️ Hashtags
 #cognifyz #cognifyzTech #cognifyzTechnologies #Java #Internship #Task3 #GradeCalculator #LearningByDoing
