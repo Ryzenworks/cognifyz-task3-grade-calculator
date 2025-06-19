@@ -1,1 +1,0 @@
-# cognifyz-task3-grade-calculator
